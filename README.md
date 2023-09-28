@@ -103,3 +103,6 @@ Conclusion
 The Text Cleaner script provides a flexible and customizable way to preprocess text data for various natural language processing (NLP) tasks. By defining the patterns, sentences, and cleaning steps, you can tailor it to your specific text cleaning needs.
 
 Feel free to use, modify, and extend the Text Cleaner script to suit your project requirements.
+
+
+This code is not perfect but it got the job done for me
