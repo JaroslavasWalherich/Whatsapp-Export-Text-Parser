@@ -1,0 +1,13 @@
+\[.*\].*:\s
+@.*\d
+[A-Za-z].*document\somitted
+\[.*\].*created\sthis\sgroup
+\[.*\].*You\swere\sadded
+https?://\S+
+(ههه)+
+‎.*\schanged\sthis\sgroup's\sicon
+‎.*\screated\sthis\sgroup
+‎.*added\syou
+‎.*\sadded.*[A-Za-z]
+‎.*\schanged\sthis group.*[A-Za-z].*[A-Za-z]
+option:\s+.*\s+\([0-9]+\svotes\)
